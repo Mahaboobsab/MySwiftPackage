@@ -8,7 +8,7 @@
 import UIKit
 
 extension UIColor{
-    static var MPripary : UIColor {
+   public static var MPripary : UIColor {
         return .blue
     }
 }
