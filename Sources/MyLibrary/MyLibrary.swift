@@ -5,7 +5,7 @@ public struct MyLibrary {
    public init() {
         
     }
-    public func getColor () -> UIColor {
+    public static func getColor () -> UIColor {
         return .red
     }
 }
