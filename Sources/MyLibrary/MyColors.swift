@@ -5,4 +5,10 @@
 //  Created by admin on 09/07/21.
 //
 
-import Foundation
+import UIKit
+
+extension UIColor{
+    static var MPripary : UIColor {
+        return .blue
+    }
+}
